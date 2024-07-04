@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         'poetsen': ['Poetsen One', 'sans-serif'],
         'oswald':['Oswald','sans-serif'],
+      },
+      height:{
+        'main' : '300vh',
       }
     },
   },
